@@ -1,3 +1,4 @@
 .history
 *.class
 .idea
+__pycache__
